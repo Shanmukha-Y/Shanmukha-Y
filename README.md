@@ -3,7 +3,7 @@ Hi 👋 My name is Shanmukha Yenneti
 Computer Vision | Deep Learning | Machine Learning 
 --------------------------------------------------  
 * 🌍  I'm based in New York * 🚀  I'm currently working on [USA Public Health Dashboard](http://github.com/Shanmukha-Y/Visual-Analysis-of-Public-Health-in-the-USA) 
-* * 🧠  I'm learning D3.JS
+* 🧠  I'm learning D3.JS
 
 ### Skills
 
