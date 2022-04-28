@@ -1,4 +1,4 @@
-Hi 👋 My name is Shanmukha Yenneti 
+Hi 👋 I'm Shanmukha Yenneti 
 ==================================  
 Computer Vision | Deep Learning | Machine Learning 
 --------------------------------------------------  
