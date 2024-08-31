@@ -5,7 +5,8 @@
 
 - 🔭 My latest project is [Visual Turing Test for Generative Models in Medical Imaging](https://github.com/Shanmukha-Y/Visual-Turing-Test)
 
-- 🌱 I’m currently exploring **3D Computer Vision**
+- 🌱 I’m currently exploring **Artificial Deep Neural Networks and Computer Vision**
+- 🧠 Goals to understand **Biological Neural Networks and Human Vision**
 
 
 
